@@ -1,14 +1,15 @@
-# 21a-emb-aps1
+# Player musical low-level (21a-emb-aps1)
 
-Embarcados - APS 1 - Musical!
+Projeto de player musical utilizando o microchip SAME70-XPLD e alguns periféricos. Feito como a primeira Atividade Prática Supervisionada (APS) de Computação Embarcada, disciplina do 5° Semestre de Engenharia de Computação do Insper.
 
 Para maiores informações acesse:
 
 https://insper.github.io/ComputacaoEmbarcada/APS-1-Musical/
 
-Issues serão abertos neste repositório para guiar o desenvolvimento
-da dupla. **Vocês não devem fechar os issues, apenas a equipe de professores!**, porém devem referenciar nos commits quando um issue 
-foi concluído! Isso gerará um PR no classroom que será avaliado pela equipe.
+## Equipe
+
+ - [Gabriel Onishi](https://github.com/gabrielonishi)
+ - [Rodrigo Mattar](https://github.com/digomattar21)
 
 ## Documentação
 
